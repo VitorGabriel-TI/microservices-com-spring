@@ -1,4 +1,4 @@
-package br.com.vitorgabrielti.ms.email.email;
+package br.com.vitorgabrielti.ms.email;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

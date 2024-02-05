@@ -1,4 +1,4 @@
-package br.com.vitorgabrielti.ms.email.email;
+package br.com.vitorgabrielti.ms.email;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
